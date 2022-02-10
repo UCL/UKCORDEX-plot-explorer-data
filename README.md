@@ -1,2 +1,2 @@
 # UKCORDEX-plot-explorer-data
-Data holder of UK CORDEX plot explorer images and data
+This repository will hold the image and data used by [UK CORDEX plot explorer](https://github.com/UCL/UKCORDEX-plot-explorer).
